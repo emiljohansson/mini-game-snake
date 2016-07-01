@@ -1,0 +1,17 @@
+{
+  "name": "mini-game-snake",
+  "version": "0.0.0",
+  "description": "mini game snake",
+  "main": "index.js",
+  "scripts": {
+      "bundle": "webpack index.js public/bundle.js --watch",
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "snake",
+    "mini",
+    "game"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT"
+}
